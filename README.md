@@ -40,6 +40,7 @@ python temporal_mapping.py UCF101_frame even map
 ## Extract features of each video.
 You can limit the number of labels by manully set the label number in extract_feature.py file. You have also to set the frame folder manully in the file and extract out the feature for each frame folder respectively.
 ```
+cd 
 python extract_features.py
 ```
 ## Training models
