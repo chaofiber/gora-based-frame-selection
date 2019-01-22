@@ -1,0 +1,3 @@
+## This folder should contain UCF video frames.
+## The structude should look like this:
+       UCF101_frame/label_name/video_name/frames
